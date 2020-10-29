@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZufebBTbEkv0ft/2x5PnsfQrM/hrrPGI0EWSyNYXftsg/ESho5c9SjeDS9k5SKIHIIaMHPcPspk8Z5/dwLS4NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owner\\source\\repos\\ApiCallConsoleApp\\ApiCallConsoleApp\\ApiCallConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

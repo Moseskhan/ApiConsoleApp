@@ -1,0 +1,15 @@
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.exe
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.AssemblyInfo.cs
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.deps.json
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.runtimeconfig.json
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.dll
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\ApiCallConsoleApp.pdb
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.csproj.CopyComplete
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.dll
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.pdb
+C:\Users\owner\source\repos\ApiCallConsoleApp\ApiCallConsoleApp\obj\Debug\netcoreapp3.1\ApiCallConsoleApp.genruntimeconfig.cache
