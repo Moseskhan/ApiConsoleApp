@@ -32,7 +32,9 @@ namespace ApiCallConsoleApp
 			{
 				var url = "https://ecgcm-dev-eastus2.azurewebsites.net/api/config-category";
 				var content = await client.GetStringAsync(url);
+				client.Dispose();
 				return JsonConvert.DeserializeObject<List<ConfigCategory>>(content);
+			
 			}
 		}
 	}
